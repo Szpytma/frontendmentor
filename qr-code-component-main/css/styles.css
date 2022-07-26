@@ -1,0 +1,35 @@
+body {
+  background-color: #D6E2F0;
+}
+
+img {
+  border-radius: 8px;
+  width: 20rem;
+}
+
+h2 {
+  margin: 10px;
+}
+
+.all {
+  display:  inline-block;
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
+
+.frame {
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  width: 20rem;
+  padding: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+
+}
+
+.attribution a {
+  color: #3E52A3;
+}
