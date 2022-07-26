@@ -1,2 +1,2 @@
 # frontendmentor
-Repositiory shoiwng solution for the frontendmentor challanges
+Repository showing solution for the frontend mentor challenges
